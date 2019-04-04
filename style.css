@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>First site</title>
+<link rel="stylesheet" type="text/css" href="css/styles.css">
+
+</head>
+<body>
+<h1>Hello world</h1>
+
+  header {
+    text-align: center;
+    background: white;
+  }
+  body {
+    background-image: url("book.jpg");
+  }
+  h1 {
+    font-size: 70px;
+  }
+  ul {
+    padding: 10px;
+    background: black;
+  }
+  li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+  }
+  </body>
